@@ -44,6 +44,7 @@ char CheckWin()
 }
 void Input()
 {
+    //start
     int a;
     cout<<"Enter the cell number u choose :";
     cin>>a;
