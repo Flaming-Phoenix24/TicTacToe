@@ -44,7 +44,7 @@ char CheckWin()
 }
 void Input()
 {
-    //start of code 123
+    //start of code 1234
     int a;
     cout<<"Enter the cell number u choose :";
     cin>>a; 
